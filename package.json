@@ -1,0 +1,22 @@
+{
+  "name": "zeus-router-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "jonny"
+  },
+  "repository": {
+    "url": "https://github.com/guoqn/zeus-router-config.git"
+  },
+  "dependencies": {
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
