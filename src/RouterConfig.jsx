@@ -128,5 +128,5 @@ export class RouterConfig extends Component {
 }
 
 RouterConfig.propTypes = {
-  config: PropTypes.array, // 路由菜单
+  routerConfig: PropTypes.array, // 路由菜单
 };
